@@ -348,7 +348,7 @@
     "ignore": "^5.3.2",
     "inquirer": "^9.3.4",
     "knip": "^5.27.2",
-    "langchain": "^0.2.16",
+    "langchain": "^0.2.19",
     "lint-staged": "^15.2.9",
     "minimatch": "^9.0.5",
     "node-fetch": "^3.3.2",
